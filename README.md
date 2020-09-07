@@ -1,2 +1,3 @@
 # hello
 proyecto II
+soy jose de jesus y estoy empezando a programar, es una nueva experiencia para mi.....
